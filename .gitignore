@@ -1,0 +1,7 @@
+logs/
+.venv/
+nltk_data/
+*.iml
+*.xlsx
+*.meta
+*.xml
